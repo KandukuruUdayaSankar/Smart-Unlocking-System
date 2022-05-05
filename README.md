@@ -38,7 +38,7 @@ Install all the above mentioned softwares and libraries through their respective
 
 Hardware connections 
 
-Circuit Diagram fpr connecting ESP32CAM module to a single lock and relay module 
+Circuit Diagram for connecting ESP32CAM module to a single lock and relay module 
 
 ![unknown](https://circuitdigest.com/sites/default/files/circuitdiagram_mic/Face-Recognition-Door-Lock-Circuit-Diagram.png)
 
